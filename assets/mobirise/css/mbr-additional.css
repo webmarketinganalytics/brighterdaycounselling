@@ -3,7 +3,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -703,6 +702,9 @@ h6,
 #header1-1 .mbr-section-lead {
   font-size: 46px;
 }
+#menu-2 {
+  
+}
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -785,11 +787,11 @@ h6,
   border-color: #2969b0;
 }
 #features7-5 P {
-  font-size: 30px;
+  font-size: 23px;
   text-align: center;
 }
 #features7-5 H4 {
-  font-size: 25px;
+  font-size: 40px;
 }
 #msg-box8-7 .mbr-section-title,
 #msg-box8-7 p {
@@ -811,7 +813,7 @@ h6,
 }
 #features4-f P {
   text-align: center;
-  font-size: 25px;
+  font-size: 21px;
 }
 #header3-8 .mbr-section-title,
 #header3-8 .mbr-section-subtitle {
@@ -831,19 +833,9 @@ h6,
   font-size: 20px;
 }
 #features4-b H4 {
-  font-size: 25px;
+  font-size: 30px;
 }
 #msg-box8-g .mbr-section-title,
 #msg-box8-g p {
   color: #fff;
-}
-#extFeatures1-p .mbr-section-title {
-  color: #fff;
-}
-#features7-w .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-w .iconbox {
-  background-color: #41a85f;
-  border-color: #41a85f;
 }
