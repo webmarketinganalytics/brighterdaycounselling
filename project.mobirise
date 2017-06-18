@@ -51,11 +51,11 @@
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-size": "84px",
-              "color": "#2969b0"
+              "color": "#ffffff"
             },
             ".mbr-section-lead": {
               "font-size": "46px",
-              "color": "#2969b0"
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-1",
