@@ -50,10 +50,12 @@
             ".mbr-section-title": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "84px"
+              "font-size": "84px",
+              "color": "#2969b0"
             },
             ".mbr-section-lead": {
-              "font-size": "46px"
+              "font-size": "46px",
+              "color": "#2969b0"
             }
           },
           "_anchor": "header1-1",
@@ -78,7 +80,7 @@
           },
           "title": "BRIGHTER DAY<br>",
           "text": "Counselling Services on the Gold Coast<br>",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FREE CONSULTATION</a>"
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FREE CONSULTATION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FREE CONSULTATION</a>"
         },
         {
           "_tags": [
