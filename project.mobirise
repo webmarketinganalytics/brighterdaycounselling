@@ -61,7 +61,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1324.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/639144254-2000x1332.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -85,8 +85,13 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-2",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#2969b0",
             "fontSize": "0.85",
             "fontName": {
@@ -95,13 +100,7 @@
               "css": "'Lato', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -123,7 +122,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n.hide-buttons .nav-btn {\n\tdisplay: none !important;\n}\n.navbar-caption {\n\tcolor: #ffffff;\n}\n.navbar-toggler {\n\tcolor: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n\tbackground-color: #ffffff;\n}\n.link, .dropdown-item {\n\tcolor: #ffffff;\n\tfont-family: 'Lato', sans-serif;\n}\n.link {\n\tfont-size: 0.85rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n\tfont-size: 0.921rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n\tcolor: #41a85f;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n\tbackground: #1f5087;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n\tbackground: #2662a4!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n\tbackground: #2969b0;\n}\n.bg-color.transparent .link {\n\tcolor: #ffffff;\n\ttransition: none;\n}\n.bg-color.transparent.opened .link {\n\ttransition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n\tcolor: #41a85f;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n\tcolor: #41a85f!important;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "menu-2"
         },
         {
           "_tags": [
@@ -268,7 +268,7 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(252, 252, 252);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-6\" style=\"padding-top: 40px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-features7\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"349\"><p>COUNSELLING &nbsp; &nbsp;</p></h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"350\">Counselling services that <br>include&nbsp;asdasdasdasdad<br>asdasdad<br></p>\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"351\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-6\" style=\"padding-top: 40px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-features7\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"352\">COACHING</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"353\">One of Bootstrap 4's big points<br> is responsiveness and Mobirise <br>makes effective use</p>\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"354\">MORE</a></div>\n                    </div>\n                </div>\n          </div>\n        </div>\n        \n        \n        \n        \n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" style=\"background-color: rgb(252, 252, 252);\">\n\n    \n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-6\" style=\"padding-top: 40px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-features7\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"14\"><p>COUNSELLING &nbsp; &nbsp;</p></h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"15\">Counselling services that <br>include&nbsp;asdasdasdasdad<br>asdasdad<br></p>\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"16\">MORE</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-6\" style=\"padding-top: 40px; padding-bottom: 80px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img iconbox\"><a href=\"https://mobirise.com\" class=\"mbri-arrow-next mbr-iconfont mbr-iconfont-features7\" style=\"color: rgb(255, 255, 255);\"></a></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"17\">COACHING</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"18\">One of Bootstrap 4's big points<br> is responsiveness and Mobirise <br>makes effective use</p>\n                        <div class=\"card-btn\"><a href=\"https://mobirise.com\" class=\"btn btn-primary mbr-editable-button\" code-editable-id=\"19\">MORE</a></div>\n                    </div>\n                </div>\n          </div>\n        </div>\n        \n        \n        \n        \n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".card-subtitle {\n\tcolor: #bcbcbc;\n}\n.iconbox {\n\tbackground-color: #2969b0;\n\tborder-color: #2969b0;\n}\nP {\n\tfont-size: 23px;\n\ttext-align: center;\n}\nH4 {\n\tfont-size: 40px;\n}\n",
@@ -343,29 +343,28 @@
             "Theme"
           ],
           "_name": "features4",
-          "_anchor": "features4-f",
           "_params": {
-            "iconsBgColor": "#f2f2f2",
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -461,7 +460,14 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".card-subtitle {\n\tcolor: #bcbcbc;\n}\n.iconbox {\n\tbackground-color: #f2f2f2;\n\tborder-color: #f2f2f2;\n}\nP {\n\ttext-align: center;\n\tfont-size: 21px;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            }
+          },
+          "_anchor": "features4-f"
         },
         {
           "_tags": [
@@ -512,24 +518,23 @@
               "authorBio": "User"
             }
           ],
-          "_anchor": "testimonials1-c",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "count": 3,
+            "showTitle": true,
+            "showSubtitle": false,
             "showImages": true,
             "showName": false,
             "showBio": true,
+            "count": 3,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
-            "bgColor": "#faf6f6",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#faf6f6",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false
+            "overlayOpacity": 0.5
           },
           "title": "WHAT OUR Clients Say",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
@@ -537,19 +542,19 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "testimonials1-c"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-8",
           "_params": {
+            "showMeta": true,
             "paddingTop": "3",
             "paddingBottom": "1",
-            "bgColor": "#ffffff",
-            "showMeta": true
+            "bgColor": "#ffffff"
           },
           "title": "How it Works",
           "meta": "",
@@ -557,36 +562,36 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\nH3 {\n\tcolor: #000000;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "header3-8"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features4",
-          "_anchor": "features4-b",
           "_params": {
-            "iconsBgColor": "#ffffff",
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1080.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 3,
             "showImages": false,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -682,7 +687,14 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".card-subtitle {\n\tcolor: #bcbcbc;\n}\n.iconbox {\n\tbackground-color: #ffffff;\n\tborder-color: #ffffff;\n}\nP {\n\tfont-size: 20px;\n}\nH4 {\n\tfont-size: 30px;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".iconbox": {
+              "background-color": "#ffffff",
+              "border-color": "#ffffff"
+            }
+          },
+          "_anchor": "features4-b"
         },
         {
           "_styles": {
@@ -729,7 +741,7 @@
             "collapseAll": false,
             "tabs": "3",
             "imageSize": 50,
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "parallax": false,
             "bgImageRadio": false,
@@ -864,25 +876,24 @@
             "Extension"
           ],
           "_name": "extFooter1",
-          "_anchor": "extFooter1-z",
           "_params": {
+            "showTitle": true,
+            "showLogo": true,
             "progress": 50,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
-            "bgColor": "#262626",
+            "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "#262626",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.4,
             "overlayColor": "#000",
-            "showLogo": true,
-            "showTitle": true
+            "overlayOpacity": 0.4
           },
           "media": {
             "image": {
@@ -902,7 +913,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "extFooter1-z"
         }
       ]
     }

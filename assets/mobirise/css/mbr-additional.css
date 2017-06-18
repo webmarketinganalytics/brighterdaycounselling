@@ -804,6 +804,10 @@ h6,
 #header3-h H3 {
   font-size: 48px;
 }
+#features4-f .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
 #features4-f .card-subtitle {
   color: #bcbcbc;
 }
@@ -821,6 +825,10 @@ h6,
 }
 #header3-8 H3 {
   color: #000000;
+}
+#features4-b .iconbox {
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 #features4-b .card-subtitle {
   color: #bcbcbc;
